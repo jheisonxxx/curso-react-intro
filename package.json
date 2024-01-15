@@ -33,5 +33,6 @@
   },
   "devDependencies": {
     "ghpages": "^0.0.10"
-  }
+  },
+  "homepage": "https://jheisonxxx.github.io/curso-react-intro"
 }
